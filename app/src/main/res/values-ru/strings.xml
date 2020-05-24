@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleCode</string>
+    <string name="silicon_valley">Силиконовая Долина</string>
+    <string name="ru">ru</string>
+    <string name="en">en</string>
+    <string name="ok">ok</string>
+</resources>

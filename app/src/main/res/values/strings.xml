@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocaleCode</string>
+    <string name="silicon_valley">Silicon Valley</string>
+    <string name="ru">ru</string>
+    <string name="en">en</string>
+    <string name="ok">ok</string>
+</resources>
